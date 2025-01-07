@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishajgill
-- 👀 I’m interested in learning c++
-- 🌱 I’m currently enrolled in a c++ course at UMICHD
+- 👀 I’m interested in learning C++
+
   
 
 - 😄 Pronouns: she/her
