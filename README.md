@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ishajgill
-- 👀 I’m interested in learning C++
+- 👀 I’m interested in learning C++, Python and Data management
 
   
 
